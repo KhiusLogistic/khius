@@ -12,7 +12,7 @@ permalink: /contacts/
         <b>City:</b> İstanbul <br>
         <b>Country:</b> Turkey <br>
         <b>Postal Code:</b> 11/502 <br>
-        <b>Mobile Number:</b> <a href="tel:+">+7777777777</a> <br>
+        <b>Mobile Number:</b> <a href="tel:+">+902324413612</a> <br>
         <a href="mailto:info@khiuslogistic.com">info@khiuslogistic.com</a>
     </div>
     <div class="col">
